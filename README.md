@@ -1,4 +1,7 @@
 # schedule-text-lambda
+
+![Architecture](images/Architecture.png)
+
 Send text message to someone on a defined schedule using AWS Lambda &amp; CloudWatch
 
 ## Requirements
